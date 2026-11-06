@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-jaiswal-b02971376/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushjaiswalbnk7985@gmail.com) 
 <!-- Live Snake Animation Grid -->
 <div align="center">
-  <img src="https://github-contribution-grid-snake.svg" alt="Snake Animation"/>
+  <img src="https://githubusercontent.com/Ayush-Jaiswal-code99/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 </div>
 
 # 💻 Tech Stack:
